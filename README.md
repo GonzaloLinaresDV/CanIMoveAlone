@@ -34,3 +34,9 @@ Calcula automáticamente la relación ingreso/vivienda, los costos iniciales de 
 ---
 
 ## 📁 Estructura del Proyecto
+
+```text
+├── index.html        # Estructura semántica del simulador y secciones
+├── style.css         # Estilos CSS personalizados, resets y scrollbars
+├── script.js        # Lógica de cálculo, base de datos de barrios y Chart.js
+└── README.md         # Documentación del proyecto
